@@ -14,7 +14,7 @@ This repository contains the full implementation and runs independently. It does
 
 
 
-Add this server to your Claude Desktop or MCP client configuration:
+Add this server to your MCP client configuration (Claude Desktop, Cursor, Windsurf, or any MCP‑compatible environment):
 
 
 
@@ -59,4 +59,5 @@ This suppressor is also included in the consolidated mcp-hallucination-suite, wh
 
 
 https://github.com/steveswain14/mcp-hallucination-suite
+
 
