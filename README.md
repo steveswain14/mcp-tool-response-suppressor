@@ -54,15 +54,18 @@ Add this server to your MCP client configuration (Claude Desktop, Cursor, Windsu
 
 
 
-\## Relationship to the full suite
-
-
+## Relationship to the full suite
 
 This suppressor is also included in the consolidated mcp-hallucination-suite, which bundles all four suppressors and provides a meta-orchestrator:
-
-
-
 https://github.com/steveswain14/mcp-hallucination-suite
+
+
+## Related repositories
+- mcp-prompt-suppressor
+- mcp-json-suppressor
+- mcp-grounding-enforcer
+
+
 
 
 
