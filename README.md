@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/license-Apache--2.0-green)
 ![Release](https://img.shields.io/github/v/release/steveswain14/mcp-tool-response-suppressor)
 
-\# Tool Response Suppressor (MCP)
+# Tool Response Suppressor (MCP)
 
 
 
@@ -14,7 +14,7 @@ This repository contains the full implementation and runs independently. It does
 
 
 
-\## Usage
+## Usage
 
 
 
@@ -40,7 +40,7 @@ Add this server to your MCP client configuration (Claude Desktop, Cursor, Windsu
 
 
 
-\## What it does
+## What it does
 
 
 
@@ -63,6 +63,7 @@ This suppressor is also included in the consolidated mcp-hallucination-suite, wh
 
 
 https://github.com/steveswain14/mcp-hallucination-suite
+
 
 
 
